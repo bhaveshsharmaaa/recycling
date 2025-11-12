@@ -177,3 +177,38 @@ indicating total collected and recovered waste quantities per material each year
 - outputs/recovery_by_material_20251112_134500.csv
 - outputs/recovery_by_year_20251112_134500.csv
 - outputs/clean_rows_with_recovered_kg_20251112_134500.csv
+
+---
+
+## 🤝 Contributors
+
+Anshuman Hoon 22ad10an5@mitsgwl.ac.in
+
+Bhavesh Sharma 22ad10bh639@mitsgwl.ac.in
+
+Krishna Gupta 22ad10kr645@mitsgwl.ac.in
+
+## Supervised by:
+
+- _Dr. Abhishek Bhatt_ (Assistant Professor, CAI Department, MITS)
+- _Dr. Vibha Tiwari_ (Assistant Professor, CAI Department)
+- Approved by: Dr. _Rajni Ranjan Singh_ (HoD, CAI Department)
+
+---
+
+## 📜 License
+
+This repository is provided for academic and educational purposes only.
+Reproduction or redistribution of any content without permission is prohibited.
+
+---
+
+## ⭐ Acknowledgment
+
+We would like to thank Madhav Institute of Technology and Science (MITS), Gwalior,
+for providing the resources and guidance needed to complete this research successfully.
+
+---
+
+© 2025 — Team RECYCLING SYSTEMS AND MATERIAL RECOVERY
+All rights reserved.
