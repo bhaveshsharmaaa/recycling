@@ -71,6 +71,10 @@ and assigns recovery rates automatically.
 
 Calculates recovered material using:
 
+```bash
+recovered_kg = collected_kg × recovery_rate
+```
+
 ### 4️⃣ Summarization
 
 Creates two summary tables:
