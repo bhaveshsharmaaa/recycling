@@ -135,21 +135,6 @@ After execution, your folder will look like:
 
 ## ✅ Saved with timestamp `20251112_134500`:
 
----
-
-outputs/recovery_by_material_20251112_134500.csv
-
-outputs/recovery_by_year_20251112_134500.csv
-
-outputs/clean_rows_with_recovered_kg_20251112_134500.csv
-
----
-
-6. Interpretation:
-   • Highest recovery efficiency: Metals (78%)
-   • Largest recovered mass: Plastics (3,457,901.7 kg)
-   • Organic waste recovery (25%) reflects composting potential and collection efficiency.
-
 ✅ Saved with timestamp 20251112_134500:
 
 - outputs/recovery_by_material_20251112_134500.csv
