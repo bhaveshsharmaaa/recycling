@@ -133,10 +133,6 @@ After execution, your folder will look like:
 
 ### 💾 Saved Output Files
 
-## ✅ Saved with timestamp `20251112_134500`:
-
-✅ Saved with timestamp 20251112_134500:
-
 - outputs/recovery_by_material_20251112_134500.csv
 - outputs/recovery_by_year_20251112_134500.csv
 - outputs/clean_rows_with_recovered_kg_20251112_134500.csv
