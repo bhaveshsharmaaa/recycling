@@ -103,30 +103,55 @@ After execution, your folder will look like:
   ```bash
   pip install pandas
   ```
-After this Run the Script
+  After this Run the Script
 
 ## Output
 
-1) Loading raw CSV…
-2) Cleaning data…
-3) Standardizing values…
-4) Simulating recovery…
-5) Summarizing outputs (Year-wise)…
+1. Loading raw CSV…
+2. Cleaning data…
+3. Standardizing values…
+4. Simulating recovery…
+5. Summarizing outputs (Year-wise)…
 
-=== Total Recovery Summary by Material ===
- Material   Collected_kg   Recovered_kg   Efficiency(%)
- Plastics   6287094.0      3457901.7      55.00
- Metals     334260.0       260722.8       78.00
- Glass      12000.0        7800.0         65.00
- Organic    334260.0       83565.0        25.00
- MSW        6287094.0      628709.4       10.00
+---
 
-6) Interpretation:
-• Highest recovery efficiency: Metals (78%)
-• Largest recovered mass: Plastics (3,457,901.7 kg)
-• Organic waste recovery (25%) reflects composting potential and collection efficiency.
+### 📊 Total Recovery Summary by Material
+
+| Material | Collected (kg) | Recovered (kg) | Efficiency (%) |
+| -------- | -------------- | -------------- | -------------- |
+| Plastics | 6,287,094.0    | 3,457,901.7    | 55.00          |
+| Metals   | 334,260.0      | 260,722.8      | 78.00          |
+| Glass    | 12,000.0       | 7,800.0        | 65.00          |
+| Organic  | 334,260.0      | 83,565.0       | 25.00          |
+| MSW      | 6,287,094.0    | 628,709.4      | 10.00          |
+
+---
+
+### 🧠 Interpretation
+
+---
+
+### 💾 Saved Output Files
+
+## ✅ Saved with timestamp `20251112_134500`:
+
+---
+
+outputs/recovery_by_material_20251112_134500.csv
+
+outputs/recovery_by_year_20251112_134500.csv
+
+outputs/clean_rows_with_recovered_kg_20251112_134500.csv
+
+---
+
+6. Interpretation:
+   • Highest recovery efficiency: Metals (78%)
+   • Largest recovered mass: Plastics (3,457,901.7 kg)
+   • Organic waste recovery (25%) reflects composting potential and collection efficiency.
 
 ✅ Saved with timestamp 20251112_134500:
- - outputs/recovery_by_material_20251112_134500.csv
- - outputs/recovery_by_year_20251112_134500.csv
- - outputs/clean_rows_with_recovered_kg_20251112_134500.csv
+
+- outputs/recovery_by_material_20251112_134500.csv
+- outputs/recovery_by_year_20251112_134500.csv
+- outputs/clean_rows_with_recovered_kg_20251112_134500.csv
