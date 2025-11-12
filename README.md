@@ -14,6 +14,10 @@ The system produces year-wise and total summaries, along with human-readable ins
 
 Each step is fully automated and modular — the program can handle any CSV with date, waste type, and weight columns.
 
+```bash
+Raw CSV → Cleaning → Standardization → Simulation → Summarization → Interpretation → Outputs
+```
+
 ---
 
 ## ⚙️ Features
