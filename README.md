@@ -132,6 +132,26 @@ outputs/
 
 ### 📊 Total Recovery Summary by Material
 
+### 📅 Year-wise Recovery Summary (first 12 rows)
+
+| Year | Material Type | Collected (kg) | Recovered (kg) | Efficiency (%) |
+| ---- | ------------- | -------------- | -------------- | -------------- |
+| 2012 | MSW           | 8,981,740.0    | 898,174.0      | 10.0           |
+| 2013 | MSW           | 9,246,230.0    | 924,623.0      | 10.0           |
+| 2014 | MSW           | 9,730,880.0    | 973,088.0      | 10.0           |
+| 2015 | MSW           | 11,240,260.0   | 1,124,026.0    | 10.0           |
+| 2016 | MSW           | 7,045,750.0    | 704,575.0      | 10.0           |
+| 2016 | Organic       | 392,550.0      | 98,137.5       | 25.0           |
+| 2017 | MSW           | 9,384,440.0    | 938,444.0      | 10.0           |
+| 2017 | Organic       | 738,840.0      | 184,710.0      | 25.0           |
+| 2018 | MSW           | 7,241,640.0    | 724,164.0      | 10.0           |
+| 2018 | Organic       | 2,211,250.0    | 552,812.5      | 25.0           |
+
+---
+
+✅ This table shows the **first 12 rows** of the year-wise summary,  
+indicating total collected and recovered waste quantities per material each year.
+
 | Material | Collected (kg) | Recovered (kg) | Efficiency (%) |
 | -------- | -------------- | -------------- | -------------- |
 | Plastics | 6,287,094.0    | 3,457,901.7    | 55.00          |
