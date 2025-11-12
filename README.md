@@ -81,6 +81,9 @@ Creates two summary tables:
 ### 5️⃣ Interpretation
 
 Generates automatic insights:
+• Highest recovery efficiency: Metals (78%)
+• Largest recovered mass: Organic (500 kg)
+• Organic waste recovery (25%) reflects composting potential and collection efficiency.
 
 ### 6️⃣ Output Saving
 
@@ -91,6 +94,11 @@ All results are stored in `/outputs/` with unique timestamps.
 ## 📤 Example Output Files
 
 After execution, your folder will look like:
+
+outputs/
+├─ recovery_by_material_20251112_134500.csv
+├─ recovery_by_year_20251112_134500.csv
+└─ clean_rows_with_recovered_kg_20251112_134500.csv
 
 ---
 
