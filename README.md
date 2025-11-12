@@ -1,4 +1,4 @@
-# ♻️ Recycling & Organic Waste Recovery — Yearly Summary
+# ♻️ RECYCLING SYSTEMS AND MATERIAL RECOVERY
 
 ### 📘 Project Overview
 
